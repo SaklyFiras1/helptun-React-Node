@@ -1,0 +1,27 @@
+
+.spinner{
+ 
+  position: fixed;
+width:100%;
+height: 100%;
+justify-content: center;
+display: flex;
+transform: translateX(1%);
+
+
+
+}
+.pageload{
+
+ margin-top:270px ;
+ transform: translateX(-2%);
+}
+#loadspan{
+
+  font-size: xx-large;
+
+}#imageload{
+width: 50px;
+height: 50px;
+
+}
